@@ -1,6 +1,6 @@
 body {
     margin: 0;
     text-align: center;
-    background-image: url(/imgs/fundo.png);
+    background-image: url(fundo.png);
     height: fit-content;
 }
