@@ -3,9 +3,15 @@ body {
     margin: 0;
     text-align: center;
     background-image: url(fundo.png);
-    height: fit-content;
 }
 
-.principal {
-    max-width: 100vh;
+@media (max-width: 980px) {
+    .principal {
+        width: 100%;
+    }
+    
+    body {
+        align-items: center;
+    }
+
 }
