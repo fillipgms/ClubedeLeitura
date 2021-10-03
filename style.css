@@ -1,6 +1,11 @@
 body {
+    width:100%:
     margin: 0;
     text-align: center;
     background-image: url(fundo.png);
     height: fit-content;
+}
+
+#princial {
+    max-width: 100%
 }
